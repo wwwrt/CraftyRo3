@@ -1,0 +1,12 @@
+{
+  "name": "CraftyRo",
+  "short_name": "crafty",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4DBA87",
+  "icons": [
+    {
+    }
+  ]
+}
